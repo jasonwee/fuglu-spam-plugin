@@ -17,3 +17,6 @@ pip install tflite-model-maker
 $ source tf_env_py39/bin/activate
 $ python3 spam_model.py
 ```
+
+# spam training source
+* https://untroubled.org/spam/
