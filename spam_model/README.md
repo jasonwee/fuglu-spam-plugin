@@ -20,3 +20,4 @@ $ python3 spam_model.py
 
 # spam training source
 * https://untroubled.org/spam/
+* https://spamassassin.apache.org/old/publiccorpus/
